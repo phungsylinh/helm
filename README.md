@@ -19,4 +19,3 @@ git clone url
 ```
 helm install name -n namespace helmCharts/env/<nameChart> --version <version> -f ../../values/env/<values.yaml>
 ```
-> test
