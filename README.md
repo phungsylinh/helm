@@ -6,9 +6,6 @@
 ├── helmCharts
 │   ├── README.md
 │   ├── env
-├── manifests
-│   ├── README.md
-│   ├── env
 └── values
     ├── env
 ```
